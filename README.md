@@ -34,6 +34,7 @@ Please add to the list below.
 - crazy journey
 - Neon Genesis Evangelion
 - onepiece
+- Doraemon
 - Fullmetal Alchemist: Brotherhood
 - Getuyoukarayohukasi
 - You は何しに日本へ？ Why did you come to Japan?
