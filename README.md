@@ -1,4 +1,4 @@
-# Smaetphone
+# Smartphone
 Which Smartphone do you prefer?
 どのスマートフォンをあなたは好きですか？
 
@@ -20,4 +20,5 @@ vivo X90 Pro+
 11. iPhone 3GS
 12. Xiaomi Note 12
 13. iPhone12 Pro
-14. iPhone 6
+14. iPhone12 Pro
+15. iPhone 6
