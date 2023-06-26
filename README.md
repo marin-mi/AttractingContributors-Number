@@ -21,3 +21,4 @@ vivo X90 Pro+
 12. Xiaomi Note 12
 13. iPhone12 Pro
 14. iPhone12 Pro
+15. iPhone 6
