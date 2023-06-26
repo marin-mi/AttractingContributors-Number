@@ -17,3 +17,4 @@ Please tell me the title of your favorite Manga.
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
 - JOJO'S Bizarre Adventure
+- Demon Slayer
