@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite PC game.
 - Cities: Skylines II
 - Escape from Tarkov
 - Only up!
+- Call of duty
