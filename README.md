@@ -11,7 +11,7 @@ I'm looking for some awesome food spots around NAIST. If you know any cool place
 ## 🍜
 
 - 元喜神(Genkishin) / 押熊(Oshikuma)
-- a
+- アノラーメン製作所 / 富雄
 - a
 
 ## 🥩
@@ -45,3 +45,4 @@ I'm looking for some awesome food spots around NAIST. If you know any cool place
 - a
 - a
 - a
+- 
