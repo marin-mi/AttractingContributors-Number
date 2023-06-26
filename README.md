@@ -22,3 +22,4 @@ vivo X90 Pro+
 13. iPhone12 Pro
 14. iPhone12 Pro
 15. iPhone 6
+16. iPhone 13
