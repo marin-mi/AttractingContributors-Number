@@ -7,6 +7,7 @@ Please tell me the title of your favorite Manga.
 - ONE PIECE
 
 ## Please write here in English or Japanese
+- Space Brothers (宇宙兄弟)
 - Assassination Class
 - Blade of the Immortal
 - BREACH
@@ -16,4 +17,3 @@ Please tell me the title of your favorite Manga.
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
 - JOJO'S Bizarre Adventure
-
