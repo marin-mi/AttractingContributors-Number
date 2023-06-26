@@ -33,3 +33,4 @@ If you don't like beer, other alcoholic drinks are ok.
 9. Suntory Horoyoi Peach
 10. Premium Malts
 11. Kirin Ichiban Shibori
+12. Suntory こだわり酒場のレモンサワー
