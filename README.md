@@ -10,7 +10,7 @@ I'm looking for some awesome food spots around NAIST. If you know any cool place
 
 ## 🍜
 
-- a
+- 元喜神(Genkishin) / 押熊(Oshikuma)
 - a
 - a
 
