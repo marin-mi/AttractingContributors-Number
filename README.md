@@ -1,6 +1,7 @@
 # What is your favorite number?
 I like 7 !  
 Because, It is lucky seven !  
+aのところを好きな数字に変更してください！  
 
 # Sample  
 1. 888  
