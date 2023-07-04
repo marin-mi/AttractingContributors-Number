@@ -27,4 +27,5 @@ To complete the assignment, please do the following:
 - game
 - game
 - Reading the blog
+- Reading comics
 
