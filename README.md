@@ -1,7 +1,6 @@
 # What is your favorite number?
-I like 7 !  
-Because, It is lucky seven !  
-aのところを好きな数字に変更してください！  
+空いているところに好きな数字を入力してください！ 
+10番以降に新しくリストを追加することも可能です！
 
 # Sample  
 1. 888  
